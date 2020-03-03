@@ -1,3 +1,5 @@
+#include "printinorder.hpp"
+using namespace std;
 class Foo {
     mutex m1;
     mutex m2;
